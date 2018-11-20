@@ -3,7 +3,7 @@ version: "3.6"
 services:
 
   app:
-    image: zaherg/lumen
+    image: zaherg/lumen-starter
     build:
       context: ./
       dockerfile: Dockerfile

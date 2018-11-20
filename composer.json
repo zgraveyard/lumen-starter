@@ -4,7 +4,7 @@
     "keywords": ["framework", "laravel", "lumen"],
     "license": "MIT",
     "type": "project",
-    "homepage": "https://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/linuxjuggler/lumen-starter",
     "authors": [
         {
             "name": "Zaher Ghaibeh",
